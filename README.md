@@ -1,4 +1,4 @@
-# yhemmy-diamond.github.io
+# Data Analyst
 
 ### Education
 Chemistry, MSc
