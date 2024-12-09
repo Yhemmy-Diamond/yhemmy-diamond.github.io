@@ -27,7 +27,7 @@ The following are the insights gotten from the analysis:
 1. 
 
 
-![Dashboard](/assets/Pizza_Sales_REPORT.pdf)
+![Dashboard](/assets/pizza_dashboard.png)
 
 
 ### Bank Loan Report
