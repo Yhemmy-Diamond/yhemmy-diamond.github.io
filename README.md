@@ -9,7 +9,7 @@
 ## Projects
 
 ### 1. Analysis of Pizza sales for one fiscal year
-[Link to Github Repo](https://github.com/Yhemmy-Diamond/pizza-sales-analysis) </br>
+[Link to Github Repo](https://github.com/Yhemmy-Diamond/pizza-sales-analysis) \
 **Project Description**
 Be able to visualize various aspects of the pizza sales data to gain insights and understand key trends.
 **Technology:** SQL, Power BI
