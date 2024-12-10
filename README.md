@@ -7,8 +7,9 @@
 - Utiva 								       		
 
 ## Projects
-### Analysis of Pizza sales for one fiscal year
-[Link to Github Repo](https://github.com/Yhemmy-Diamond/pizza-sales-analysis)
+
+### 1. Analysis of Pizza sales for one fiscal year
+[Link to Github Repo](https://github.com/Yhemmy-Diamond/pizza-sales-analysis) </br>
 **Project Description**
 Be able to visualize various aspects of the pizza sales data to gain insights and understand key trends.
 **Technology:** SQL, Power BI
