@@ -8,7 +8,7 @@
 
 ## Projects
 
-### 1. Optimizing Pizza Sales: Data-Driven Insights for Business Growth [Link to Github Repo](https://github.com/Yhemmy-Diamond/pizza-sales-analysis) 
+### 1. Optimizing Pizza Sales: Data-Driven Insights for Business Growth ( [Link to Github Repo] (https://github.com/Yhemmy-Diamond/pizza-sales-analysis) )
 
 ![Dashboard](/assets/pizza_dashboard.png) \
 **Project Description**
@@ -26,7 +26,7 @@ Total Revenue: $817.86K
 - Average Pizzas Per Order: 
 
 **Summary of Insights**\
-The following are the insights gotten from the analysis: \
+The following are the insights gotten from the analysis: 
 1. Daily Trends: Orders peak on weekends, especially Friday and Saturday evenings.
 2. Monthly Trends: Highest orders are observed in July and January.
 3. Category Insights: The Classic category contributes the most to sales and orders.
@@ -35,7 +35,7 @@ The following are the insights gotten from the analysis: \
 6. Worst Selling Product: The Brie Carré Pizza performs the worst in revenue, quantity sold and orders.
 
 **Recommendation**\
-Based on the Pizza Sales Report, here are actionable recommendations for the management: \
+Based on the Pizza Sales Report, here are actionable recommendations for the management: 
 1. Capitalize on Best Sellers
 Promote High Revenue Pizzas: Highlight the Thai Chicken Pizza in marketing campaigns to leverage its strong revenue performance.
 Enhance Availability of Classic Deluxe Pizza: Since it leads in quantity and orders, ensure sufficient stock of its ingredients and focus on its upselling potential. [Link to read more](https://github.com/Yhemmy-Diamond/pizza-sales-analysis) \
