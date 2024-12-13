@@ -11,11 +11,12 @@
 ### 1. Optimizing Pizza Sales: Data-Driven Insights for Business Growth
 [Link to Github Repo](https://github.com/Yhemmy-Diamond/pizza-sales-analysis) \
 **Project Description**
-This project explores sales data from a pizza business to uncover insights about product performance, customer preferences, and sales trends. The dashboard provides a comprehensive analysis of key metrics such as top-performing pizzas, sales distribution across different periods, and customer purchasing patterns. The ultimate goal is to equip decision-makers with actionable insights to maximize revenue and customer satisfaction.. \
+This project explores sales data from a pizza business to uncover insights about product performance, customer preferences, and sales trends. The dashboard provides a comprehensive analysis of key metrics such as top-performing pizzas, sales distribution across different periods, and customer purchasing patterns. The ultimate goal is to equip decision-makers with actionable insights to maximize revenue and customer satisfaction. \
 **Technology:** SQL, Power BI
 
 **NORTH STAR METRIC**
-Total Revenue: $817.86K
+Total Revenue: $817.86K 
+
 **KPIs**
 - Total Revenue:
 - Average Order Value:
