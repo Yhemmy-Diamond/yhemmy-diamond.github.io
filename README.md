@@ -19,11 +19,11 @@ This project explores sales data from a pizza business to uncover insights about
 Total Revenue: $817.86K 
 
 **KPIs**
-- Total Revenue:
-- Average Order Value:
-- Total Pizzas Sold:
-- Total Orders:
-- Average Pizzas Per Order: 
+- Total Revenue
+- Average Order Value
+- Total Pizzas Sold
+- Total Orders
+- Average Pizzas Per Order
 
 **Summary of Insights**\
 The following are the insights gotten from the analysis: 
@@ -53,10 +53,10 @@ Bank loans are a crucial financial tool that enables individuals and businesses 
 **NORTH STAR METRIC**
 
 **KPIs**
-- Total Loan Applications: 
-- Total Funded Amount: 
-- Total Amount Received: 
-- Average Interest Rate: C
+- Total Loan Applications
+- Total Funded Amount
+- Total Amount Received
+- Average Interest Rate
 - Average Debt-to-Income Ratio (DTI): 
 
 **Summary of Insights**
