@@ -10,22 +10,23 @@
 
 ### 1. Optimizing Pizza Sales: Data-Driven Insights for Business Growth ([Link to Github Repo](https://github.com/Yhemmy-Diamond/pizza-sales-analysis) )
 
-![Dashboard](/assets/pizza_dashboard.png) \
-**Project Description**\
+![Dashboard](/assets/pizza_dashboard.png) 
+
+#### Project Description
 This project explores sales data from a pizza business to uncover insights about product performance, customer preferences, and sales trends. The dashboard provides a comprehensive analysis of key metrics such as top-performing pizzas, sales distribution across different periods, and customer purchasing patterns. The ultimate goal is to equip decision-makers with actionable insights to maximize revenue and customer satisfaction. \
 **Technology:** SQL, Power BI
 
-**NORTH STAR METRIC**\
+#### North Star Metric
 Total Revenue: $817.86K 
 
-**KPIs**
+####  KPIs
 - Total Revenue
 - Average Order Value
 - Total Pizzas Sold
 - Total Orders
 - Average Pizzas Per Order
 
-**Summary of Insights**\
+#### Summary of Insights
 The following are the insights gotten from the analysis: 
 1. Daily Trends: Orders peak on weekends, especially Friday and Saturday evenings.
 2. Monthly Trends: Highest orders are observed in July and January.
@@ -34,30 +35,28 @@ The following are the insights gotten from the analysis:
 5. Best Selling Product: The Thai Chicken Pizza generates the maximum revenue, while the Classic Deluxe Pizza leads in both total quantity sold and orders.
 6. Worst Selling Product: The Brie Carré Pizza performs the worst in revenue, quantity sold and orders.
 
-**Recommendation**\
+####  Recommendation
 Based on the Pizza Sales Report, here are actionable recommendations for the management: 
 1. Capitalize on Best Sellers
 Promote High Revenue Pizzas: Highlight the Thai Chicken Pizza in marketing campaigns to leverage its strong revenue performance.
-Enhance Availability of Classic Deluxe Pizza: Since it leads in quantity and orders, ensure sufficient stock of its ingredients and focus on its upselling potential. [Link to read more](https://github.com/Yhemmy-Diamond/pizza-sales-analysis) \
+Enhance Availability of Classic Deluxe Pizza: Since it leads in quantity and orders, ensure sufficient stock of its ingredients and focus on its upselling potential. [Link to read more](https://github.com/Yhemmy-Diamond/pizza-sales-analysis) 
 
 
 
-
-
-### Bank Loan Performance Analysis
+### 2. Bank Loan Performance Analysis
 ([Link to Github Repo](https://github.com/Yhemmy-Diamond/bank-loans-report))
 
 ![Dashboard](/assets/bank_loanb.png) 
 
-**Project Description**\
+#### Project Description
 The project involves developing an interactive dashboard to analyze the performance of bank loans. It provides insights into loan applications, funded amounts, and repayment statuses. The dashboard categorizes loans into "Good Loans" and "Bad Loans" based on repayment behavior and highlights key metrics such as the total funded amount, loan applications, and interest rates. It is designed to help management monitor loan health, detect trends, and improve decision-making.\
 **Technology:** Microsoft Excel
 
 
-**NORTH STAR METRIC**\
+#### North Star Metric
 Total Funded Amount Received: $473.1M
 
-**KPIs**
+#### KPIs
 - Good Loan Ratio
 - Bad Loan Ratio
 - Total Loan Applications
@@ -66,7 +65,7 @@ Total Funded Amount Received: $473.1M
 - Debt-to-Income Ratio (DTI)
 - Loan Status Breakdown
 
-**Summary of Insights**\
+#### Summary of Insights
 The following are the insights gotten from the analysis: 
 1. The majority of loans (86.2%) are classified as "Good Loans," contributing significantly to the total funded amount received ($435.8M).
 2. A smaller portion (13.8%) are "Bad Loans," with a funded amount of $65.5M, of which $37.3M has been received.
@@ -74,7 +73,7 @@ The following are the insights gotten from the analysis:
 4. The "Debt Consolidation" and "Credit Card" loan purposes likely dominate the portfolio (inferred from their prominence in typical dashboards).
 5. Monitoring the DTI and optimizing the balance between interest rates and approval criteria could further improve loan recovery rates and minimize defaults.
 
-**Recommendations**\
+#### Recommendations
 Based on the insights derived from the Bank Loan Report, here are actionable recommendations for the bank to enhance its performance, improve customer satisfaction, and reduce risks: 
 1. Optimize Loan Products
 - Adjust Loan Terms:
