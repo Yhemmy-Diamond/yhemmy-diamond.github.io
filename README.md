@@ -8,7 +8,7 @@
 
 ## Projects
 
-### 1. Optimizing Pizza Sales: Data-Driven Insights for Business Growth [Link to Github Repo] (https://github.com/Yhemmy-Diamond/pizza-sales-analysis) 
+### 1. Optimizing Pizza Sales: Data-Driven Insights for Business Growth ([Link to Github Repo](https://github.com/Yhemmy-Diamond/pizza-sales-analysis) )
 
 ![Dashboard](/assets/pizza_dashboard.png) \
 **Project Description**\
