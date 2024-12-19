@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Power BI, Azure Data Lake
+#### Technical Skills: Python, SQL, Power BI, Microsoft Excel, Azure Data Lake, Big Query
 
 ## Education
 - MSc., Material Chemistry and Mineralogy from the University of Bremen
