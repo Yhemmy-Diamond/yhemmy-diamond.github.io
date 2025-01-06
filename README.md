@@ -4,7 +4,11 @@
 
 ## Education
 - MSc., Material Chemistry and Mineralogy from the University of Bremen
-- Utiva Data Analysis Masterclass								       		
+- Utiva Data Analysis Masterclass
+- 
+## Certifications
+- PL-300 Microsoft Power BI Analyst
+- IBM Python for Data Analysis            		
 
 ## Projects
 
@@ -13,7 +17,7 @@
 ![Dashboard](/assets/pizza_dashboard.png) 
 
 #### Project Description
-This project explores sales data from a pizza business to uncover insights about product performance, customer preferences, and sales trends. The dashboard provides a comprehensive analysis of key metrics such as top-performing pizzas, sales distribution across different periods, and customer purchasing patterns. The ultimate goal is to equip decision-makers with actionable insights to maximize revenue and customer satisfaction. \
+This project explores sales data from a pizza business to uncover insights about products performances, customer preferences, and sales trends. The dashboard provides a comprehensive analysis of key metrics such as top-performing pizzas, sales distribution across different periods, and customer purchasing patterns. The ultimate goal is to equip decision-makers with actionable insights to maximize revenue and customer satisfaction. \
 **Technology:** SQL, Power BI
 
 #### North Star Metric
